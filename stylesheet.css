@@ -134,6 +134,7 @@ input, textarea{
 .contact-submit{
   background-color: #00456a;
   color: #f7f7f7;
+  border: 2px solid black;
 }
 
 
